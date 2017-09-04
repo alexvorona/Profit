@@ -1,0 +1,16 @@
+c:\users\san\documents\visual studio 2017\Projects\ProfitSolution\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+c:\users\san\documents\visual studio 2017\Projects\ProfitSolution\ConsoleClient\bin\Debug\ConsoleClient.exe
+c:\users\san\documents\visual studio 2017\Projects\ProfitSolution\ConsoleClient\bin\Debug\ConsoleClient.pdb
+c:\users\san\documents\visual studio 2017\Projects\ProfitSolution\ConsoleClient\obj\Debug\ConsoleClient.exe
+c:\users\san\documents\visual studio 2017\Projects\ProfitSolution\ConsoleClient\obj\Debug\ConsoleClient.pdb
+c:\users\san\documents\visual studio 2017\Projects\ProfitSolution\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+c:\users\san\documents\visual studio 2017\Projects\ProfitSolution\ConsoleClient\bin\Debug\ClassLibrary.dll
+c:\users\san\documents\visual studio 2017\Projects\ProfitSolution\ConsoleClient\bin\Debug\ClassLibrary.pdb
+C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ConsoleClient\bin\Debug\ClassLibrary.dll
+C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ConsoleClient\bin\Debug\ClassLibrary.pdb
+C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ConsoleClient\obj\Debug\ConsoleClient.pdb

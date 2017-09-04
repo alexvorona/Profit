@@ -1,0 +1,9 @@
+c:\users\san\documents\visual studio 2017\Projects\ProfitSolution\ClassLibrary\bin\Debug\ClassLibrary.dll
+c:\users\san\documents\visual studio 2017\Projects\ProfitSolution\ClassLibrary\bin\Debug\ClassLibrary.pdb
+c:\users\san\documents\visual studio 2017\Projects\ProfitSolution\ClassLibrary\obj\Debug\ClassLibrary.dll
+c:\users\san\documents\visual studio 2017\Projects\ProfitSolution\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\san\Documents\Visual Studio 2017\Projects\ProfitSolution\ClassLibrary\obj\Debug\UdpLibrary.csprojResolveAssemblyReference.cache
+C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ClassLibrary\obj\Debug\ClassLibrary.pdb

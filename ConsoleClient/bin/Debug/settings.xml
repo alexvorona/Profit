@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XMLFileName>C:\Users\san.SCIENCE\Documents\Visual Studio 2017\Projects\ProfitSolution\ConsoleClient\bin\Debug\settings.xml</XMLFileName>
+  <DiapasonMin>0</DiapasonMin>
+  <DiapasonMax>100</DiapasonMax>
+  <IPAddress>224.0.0.0</IPAddress>
+  <Port>8001</Port>
+</CustomSettings>
